@@ -13,6 +13,8 @@ let cellProp = {
   fontcolor:"#000000",
   BGcolor:"#000000",
   value:"",
+  formula:"",
+  children:[],
 }
 sheetRow.push(cellProp);
 }
